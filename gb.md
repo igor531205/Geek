@@ -16,4 +16,4 @@ git add <file name>
 
 ![geekbrains](geekbrains.jpg)
 
-> Be patient, Alexey, there are only two lessons left!.
+> Be patient, Alexey, there are only one lessons left!.
