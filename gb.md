@@ -20,5 +20,10 @@ git add <file name>
 
 > Be patient, Alexey, there are only one lessons left!.
 
+<<<<<<< HEAD
 ## rebase
 moving the base of the current branch to a commit of another branch
+=======
+## merge 
+merging one branch into another
+>>>>>>> 533d108 (merging)
