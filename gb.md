@@ -29,3 +29,8 @@ moving the base of the current branch to a commit of another branch
 ```
 merging one branch into another
 ```
+
+## extra merge 
+```
+new line in master
+```
