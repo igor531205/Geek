@@ -37,4 +37,5 @@ new line in new_branch
 ## extra rebase
 ```
 new line in master
+new line in new_branch
 ```
