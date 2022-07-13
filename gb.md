@@ -33,4 +33,5 @@ merging one branch into another
 ## extra merge 
 ```
 new line in master
+new line in new_branch
 ```
