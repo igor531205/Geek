@@ -18,8 +18,6 @@ git add <file name>
 ## image
 ![geekbrains](geekbrains.jpg)
 
-> Be patient, Alexey, there are only one lessons left!.
-
 ## rebase
 ```
 moving the base of the current branch to a commit of another branch
