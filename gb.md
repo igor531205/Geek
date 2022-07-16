@@ -42,6 +42,6 @@ new line in new_branch
 
 ## the end
 
-## add change to gitBranch
+## add change to gitBranchRebase
 
 ## add change to gitHub
